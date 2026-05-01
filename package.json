@@ -1,6 +1,6 @@
 {
   "name": "arvk",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The official TypeScript library for the Arvk API",
   "author": "Arvk <>",
   "types": "dist/index.d.ts",
